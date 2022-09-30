@@ -1,0 +1,18 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongodb": "^4.10.0"
+  },
+  "description": ""
+}
